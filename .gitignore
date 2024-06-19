@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+src/compositionaldust/core/cost_symbolic.c
+src/compositionaldust/core/dust.c
+src/compositionaldust/core/random.c
+src/compositionaldust/core/utils.c
