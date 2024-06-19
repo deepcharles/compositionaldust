@@ -1,6 +1,9 @@
 # An Efficient Algorithm For Exact Segmentation of Large Compositional and Categorical Time Series
 
-Python implementation of the algorithm described in (Truong and Runge, 2024)
+Python implementation of the algorithm described in **(Truong and Runge, 2024)**
+
+- Truong, C. and Runge, V. An Efficient Algorithm For Exact Segmentation of Large Compositional and Categorical Time Series. *Submitted to Stat, 2024*.
+
 
 
 ## Python
