@@ -8,7 +8,7 @@ Python implementation of the algorithm described in (Truong and Runge, 2024)
 To install the Python package, run in a terminal
 
 ```bash
-python -m pip install ...
+python -m pip install git+https://github.com/deepcharles/compositionaldust.git
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ The value of penalty controls the number of change-points that will be estimated
 ```python
 from compositionaldust import get_bkps
 
-bkps_pred = get_bkps(signal=signal, penalty=10)
+bkps_pred = get_bkps(signal=signal, penalty=1)
 
 print(f"The predicted change-points are {bkps_pred}.")
 ```
