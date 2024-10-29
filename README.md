@@ -2,7 +2,7 @@
 
 Python implementation of the algorithm described in **(Truong and Runge, 2024)**
 
-- Truong, C. and Runge, V. An Efficient Algorithm For Exact Segmentation of Large Compositional and Categorical Time Series. *Submitted to Stat, 2024*.
+- Truong, C. and Runge, V. (2024), An Efficient Algorithm for Exact Segmentation of Large Compositional and Categorical Time Series. Stat, 13: e70012. https://doi.org/10.1002/sta4.70012
 
 
 
